@@ -12,7 +12,4 @@ I'm based in Turkey / Bursa<br>✉️ You can contact me at ender.karan14@gmail.
 ![](https://nirzak-streak-stats.vercel.app/?user=EnderKaran&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderKaran&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EnderKaran&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
